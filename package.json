@@ -12,7 +12,8 @@
     "gulp": "*",
     "gulp-sourcemaps": "*",
     "gulp-babel": "*",
-    "gulp-watch": "*"
+    "gulp-watch": "*",
+    "lodash":     "*"
   },
   "author": "Gustavo Di Pietro",
   "license": "ISC"
