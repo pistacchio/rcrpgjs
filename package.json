@@ -1,0 +1,19 @@
+{
+  "name": "rcrpgjs",
+  "version": "1.0.0",
+  "description": "ES6 + lodash version of RCRPG (Rosetta Code)",
+  "main": "dist/app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-babel": "*",
+    "gulp-watch": "*"
+  },
+  "author": "Gustavo Di Pietro",
+  "license": "ISC"
+}
